@@ -17,3 +17,4 @@ Antud projekt on koostatud Power BI-s, et analüüsida UrbanStyle Pärnu esindus
 * Power BI Desktop
 * Andmete modelleerimine ja puhastamine
 * Visualiseerimine (Line charts, Card visuals, Bar charts)
+![Dashboardi vaade](GT_Week6-Egle.png)
