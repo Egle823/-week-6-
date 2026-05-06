@@ -3,8 +3,6 @@
 ## Projekti ülevaade
 Antud projekt on koostatud Power BI-s, et analüüsida UrbanStyle Pärnu esinduskaupluse müügitulemusi ja trende perioodil 2023-2024. Dashboard annab kiire ülevaate kaupluse tervisest, klientide arvust ja peamistest müügiartiklitest.
 
-![UrbanStyle Dashboard](image_857fc0.jpg)
-
 ## Peamised mõõdikud (KPI-d)
 * **Kogukäive:** € 56.5K
 * **Keskmine tellimus:** € 261.3 (viitab premium-toodete edukusele)
